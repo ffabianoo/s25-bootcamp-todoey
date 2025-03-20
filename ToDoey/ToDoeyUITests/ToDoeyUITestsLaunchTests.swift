@@ -1,13 +1,13 @@
 //
-//  ToDoeyUITestsLaunchTests.swift
-//  ToDoeyUITests
+//  TodoeyUITestsLaunchTests.swift
+//  TodoeyUITests
 //
-//  Created by Francesca Fabiano-Grossi on 3/18/25.
+//  Created by Francesca Fabiano-Grossi on 3/20/25.
 //
 
 import XCTest
 
-final class ToDoeyUITestsLaunchTests: XCTestCase {
+final class TodoeyUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

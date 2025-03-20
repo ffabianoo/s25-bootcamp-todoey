@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		1DFA324E2D89F2450039667D /* PBXContainerItemProxy */ = {
+		1DF3BC5E2D8C89DD00FE4E7B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 1DFA32352D89F2410039667D /* Project object */;
+			containerPortal = 1DF3BC452D8C89DA00FE4E7B /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1DFA323C2D89F2410039667D;
-			remoteInfo = ToDoey;
+			remoteGlobalIDString = 1DF3BC4C2D8C89DA00FE4E7B;
+			remoteInfo = Todoey;
 		};
-		1DFA32582D89F2450039667D /* PBXContainerItemProxy */ = {
+		1DF3BC682D8C89DD00FE4E7B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 1DFA32352D89F2410039667D /* Project object */;
+			containerPortal = 1DF3BC452D8C89DA00FE4E7B /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1DFA323C2D89F2410039667D;
-			remoteInfo = ToDoey;
+			remoteGlobalIDString = 1DF3BC4C2D8C89DA00FE4E7B;
+			remoteInfo = Todoey;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1DFA323D2D89F2410039667D /* ToDoey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoey.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1DFA324D2D89F2450039667D /* ToDoeyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToDoeyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1DFA32572D89F2450039667D /* ToDoeyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToDoeyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF3BC4D2D8C89DA00FE4E7B /* Todoey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todoey.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF3BC5D2D8C89DD00FE4E7B /* TodoeyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TodoeyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF3BC672D8C89DD00FE4E7B /* TodoeyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TodoeyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1DFA323F2D89F2410039667D /* ToDoey */ = {
+		1DF3BC4F2D8C89DA00FE4E7B /* Todoey */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ToDoey;
+			path = Todoey;
 			sourceTree = "<group>";
 		};
-		1DFA32502D89F2450039667D /* ToDoeyTests */ = {
+		1DF3BC602D8C89DD00FE4E7B /* TodoeyTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ToDoeyTests;
+			path = TodoeyTests;
 			sourceTree = "<group>";
 		};
-		1DFA325A2D89F2450039667D /* ToDoeyUITests */ = {
+		1DF3BC6A2D8C89DD00FE4E7B /* TodoeyUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ToDoeyUITests;
+			path = TodoeyUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1DFA323A2D89F2410039667D /* Frameworks */ = {
+		1DF3BC4A2D8C89DA00FE4E7B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1DFA324A2D89F2450039667D /* Frameworks */ = {
+		1DF3BC5A2D8C89DD00FE4E7B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1DFA32542D89F2450039667D /* Frameworks */ = {
+		1DF3BC642D8C89DD00FE4E7B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1DFA32342D89F2410039667D = {
+		1DF3BC442D8C89DA00FE4E7B = {
 			isa = PBXGroup;
 			children = (
-				1DFA323F2D89F2410039667D /* ToDoey */,
-				1DFA32502D89F2450039667D /* ToDoeyTests */,
-				1DFA325A2D89F2450039667D /* ToDoeyUITests */,
-				1DFA323E2D89F2410039667D /* Products */,
+				1DF3BC4F2D8C89DA00FE4E7B /* Todoey */,
+				1DF3BC602D8C89DD00FE4E7B /* TodoeyTests */,
+				1DF3BC6A2D8C89DD00FE4E7B /* TodoeyUITests */,
+				1DF3BC4E2D8C89DA00FE4E7B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1DFA323E2D89F2410039667D /* Products */ = {
+		1DF3BC4E2D8C89DA00FE4E7B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1DFA323D2D89F2410039667D /* ToDoey.app */,
-				1DFA324D2D89F2450039667D /* ToDoeyTests.xctest */,
-				1DFA32572D89F2450039667D /* ToDoeyUITests.xctest */,
+				1DF3BC4D2D8C89DA00FE4E7B /* Todoey.app */,
+				1DF3BC5D2D8C89DD00FE4E7B /* TodoeyTests.xctest */,
+				1DF3BC672D8C89DD00FE4E7B /* TodoeyUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1DFA323C2D89F2410039667D /* ToDoey */ = {
+		1DF3BC4C2D8C89DA00FE4E7B /* Todoey */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1DFA32612D89F2450039667D /* Build configuration list for PBXNativeTarget "ToDoey" */;
+			buildConfigurationList = 1DF3BC712D8C89DD00FE4E7B /* Build configuration list for PBXNativeTarget "Todoey" */;
 			buildPhases = (
-				1DFA32392D89F2410039667D /* Sources */,
-				1DFA323A2D89F2410039667D /* Frameworks */,
-				1DFA323B2D89F2410039667D /* Resources */,
+				1DF3BC492D8C89DA00FE4E7B /* Sources */,
+				1DF3BC4A2D8C89DA00FE4E7B /* Frameworks */,
+				1DF3BC4B2D8C89DA00FE4E7B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1DFA323F2D89F2410039667D /* ToDoey */,
+				1DF3BC4F2D8C89DA00FE4E7B /* Todoey */,
 			);
-			name = ToDoey;
+			name = Todoey;
 			packageProductDependencies = (
 			);
-			productName = ToDoey;
-			productReference = 1DFA323D2D89F2410039667D /* ToDoey.app */;
+			productName = Todoey;
+			productReference = 1DF3BC4D2D8C89DA00FE4E7B /* Todoey.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1DFA324C2D89F2450039667D /* ToDoeyTests */ = {
+		1DF3BC5C2D8C89DD00FE4E7B /* TodoeyTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1DFA32642D89F2450039667D /* Build configuration list for PBXNativeTarget "ToDoeyTests" */;
+			buildConfigurationList = 1DF3BC742D8C89DD00FE4E7B /* Build configuration list for PBXNativeTarget "TodoeyTests" */;
 			buildPhases = (
-				1DFA32492D89F2450039667D /* Sources */,
-				1DFA324A2D89F2450039667D /* Frameworks */,
-				1DFA324B2D89F2450039667D /* Resources */,
+				1DF3BC592D8C89DD00FE4E7B /* Sources */,
+				1DF3BC5A2D8C89DD00FE4E7B /* Frameworks */,
+				1DF3BC5B2D8C89DD00FE4E7B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				1DFA324F2D89F2450039667D /* PBXTargetDependency */,
+				1DF3BC5F2D8C89DD00FE4E7B /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				1DFA32502D89F2450039667D /* ToDoeyTests */,
+				1DF3BC602D8C89DD00FE4E7B /* TodoeyTests */,
 			);
-			name = ToDoeyTests;
+			name = TodoeyTests;
 			packageProductDependencies = (
 			);
-			productName = ToDoeyTests;
-			productReference = 1DFA324D2D89F2450039667D /* ToDoeyTests.xctest */;
+			productName = TodoeyTests;
+			productReference = 1DF3BC5D2D8C89DD00FE4E7B /* TodoeyTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		1DFA32562D89F2450039667D /* ToDoeyUITests */ = {
+		1DF3BC662D8C89DD00FE4E7B /* TodoeyUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1DFA32672D89F2450039667D /* Build configuration list for PBXNativeTarget "ToDoeyUITests" */;
+			buildConfigurationList = 1DF3BC772D8C89DD00FE4E7B /* Build configuration list for PBXNativeTarget "TodoeyUITests" */;
 			buildPhases = (
-				1DFA32532D89F2450039667D /* Sources */,
-				1DFA32542D89F2450039667D /* Frameworks */,
-				1DFA32552D89F2450039667D /* Resources */,
+				1DF3BC632D8C89DD00FE4E7B /* Sources */,
+				1DF3BC642D8C89DD00FE4E7B /* Frameworks */,
+				1DF3BC652D8C89DD00FE4E7B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				1DFA32592D89F2450039667D /* PBXTargetDependency */,
+				1DF3BC692D8C89DD00FE4E7B /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				1DFA325A2D89F2450039667D /* ToDoeyUITests */,
+				1DF3BC6A2D8C89DD00FE4E7B /* TodoeyUITests */,
 			);
-			name = ToDoeyUITests;
+			name = TodoeyUITests;
 			packageProductDependencies = (
 			);
-			productName = ToDoeyUITests;
-			productReference = 1DFA32572D89F2450039667D /* ToDoeyUITests.xctest */;
+			productName = TodoeyUITests;
+			productReference = 1DF3BC672D8C89DD00FE4E7B /* TodoeyUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1DFA32352D89F2410039667D /* Project object */ = {
+		1DF3BC452D8C89DA00FE4E7B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					1DFA323C2D89F2410039667D = {
+					1DF3BC4C2D8C89DA00FE4E7B = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					1DFA324C2D89F2450039667D = {
+					1DF3BC5C2D8C89DD00FE4E7B = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 1DFA323C2D89F2410039667D;
+						TestTargetID = 1DF3BC4C2D8C89DA00FE4E7B;
 					};
-					1DFA32562D89F2450039667D = {
+					1DF3BC662D8C89DD00FE4E7B = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 1DFA323C2D89F2410039667D;
+						TestTargetID = 1DF3BC4C2D8C89DA00FE4E7B;
 					};
 				};
 			};
-			buildConfigurationList = 1DFA32382D89F2410039667D /* Build configuration list for PBXProject "ToDoey" */;
+			buildConfigurationList = 1DF3BC482D8C89DA00FE4E7B /* Build configuration list for PBXProject "Todoey" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 1DFA32342D89F2410039667D;
+			mainGroup = 1DF3BC442D8C89DA00FE4E7B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 1DFA323E2D89F2410039667D /* Products */;
+			productRefGroup = 1DF3BC4E2D8C89DA00FE4E7B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1DFA323C2D89F2410039667D /* ToDoey */,
-				1DFA324C2D89F2450039667D /* ToDoeyTests */,
-				1DFA32562D89F2450039667D /* ToDoeyUITests */,
+				1DF3BC4C2D8C89DA00FE4E7B /* Todoey */,
+				1DF3BC5C2D8C89DD00FE4E7B /* TodoeyTests */,
+				1DF3BC662D8C89DD00FE4E7B /* TodoeyUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1DFA323B2D89F2410039667D /* Resources */ = {
+		1DF3BC4B2D8C89DA00FE4E7B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1DFA324B2D89F2450039667D /* Resources */ = {
+		1DF3BC5B2D8C89DD00FE4E7B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1DFA32552D89F2450039667D /* Resources */ = {
+		1DF3BC652D8C89DD00FE4E7B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1DFA32392D89F2410039667D /* Sources */ = {
+		1DF3BC492D8C89DA00FE4E7B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1DFA32492D89F2450039667D /* Sources */ = {
+		1DF3BC592D8C89DD00FE4E7B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1DFA32532D89F2450039667D /* Sources */ = {
+		1DF3BC632D8C89DD00FE4E7B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1DFA324F2D89F2450039667D /* PBXTargetDependency */ = {
+		1DF3BC5F2D8C89DD00FE4E7B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1DFA323C2D89F2410039667D /* ToDoey */;
-			targetProxy = 1DFA324E2D89F2450039667D /* PBXContainerItemProxy */;
+			target = 1DF3BC4C2D8C89DA00FE4E7B /* Todoey */;
+			targetProxy = 1DF3BC5E2D8C89DD00FE4E7B /* PBXContainerItemProxy */;
 		};
-		1DFA32592D89F2450039667D /* PBXTargetDependency */ = {
+		1DF3BC692D8C89DD00FE4E7B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1DFA323C2D89F2410039667D /* ToDoey */;
-			targetProxy = 1DFA32582D89F2450039667D /* PBXContainerItemProxy */;
+			target = 1DF3BC4C2D8C89DA00FE4E7B /* Todoey */;
+			targetProxy = 1DF3BC682D8C89DD00FE4E7B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1DFA325F2D89F2450039667D /* Debug */ = {
+		1DF3BC6F2D8C89DD00FE4E7B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		1DFA32602D89F2450039667D /* Release */ = {
+		1DF3BC702D8C89DD00FE4E7B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,14 +388,14 @@
 			};
 			name = Release;
 		};
-		1DFA32622D89F2450039667D /* Debug */ = {
+		1DF3BC722D8C89DD00FE4E7B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ToDoey/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Todoey/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -408,7 +408,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.ToDoey;
+				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.Todoey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -416,14 +416,14 @@
 			};
 			name = Debug;
 		};
-		1DFA32632D89F2450039667D /* Release */ = {
+		1DF3BC732D8C89DD00FE4E7B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ToDoey/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Todoey/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -436,7 +436,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.ToDoey;
+				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.Todoey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -444,7 +444,7 @@
 			};
 			name = Release;
 		};
-		1DFA32652D89F2450039667D /* Debug */ = {
+		1DF3BC752D8C89DD00FE4E7B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -453,16 +453,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.ToDoeyTests;
+				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.TodoeyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ToDoey.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ToDoey";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Todoey.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Todoey";
 			};
 			name = Debug;
 		};
-		1DFA32662D89F2450039667D /* Release */ = {
+		1DF3BC762D8C89DD00FE4E7B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -471,87 +471,87 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.ToDoeyTests;
+				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.TodoeyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ToDoey.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ToDoey";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Todoey.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Todoey";
 			};
 			name = Release;
 		};
-		1DFA32682D89F2450039667D /* Debug */ = {
+		1DF3BC782D8C89DD00FE4E7B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.ToDoeyUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.TodoeyUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = ToDoey;
+				TEST_TARGET_NAME = Todoey;
 			};
 			name = Debug;
 		};
-		1DFA32692D89F2450039667D /* Release */ = {
+		1DF3BC792D8C89DD00FE4E7B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.ToDoeyUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = name.francescafabiano.TodoeyUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = ToDoey;
+				TEST_TARGET_NAME = Todoey;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1DFA32382D89F2410039667D /* Build configuration list for PBXProject "ToDoey" */ = {
+		1DF3BC482D8C89DA00FE4E7B /* Build configuration list for PBXProject "Todoey" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1DFA325F2D89F2450039667D /* Debug */,
-				1DFA32602D89F2450039667D /* Release */,
+				1DF3BC6F2D8C89DD00FE4E7B /* Debug */,
+				1DF3BC702D8C89DD00FE4E7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1DFA32612D89F2450039667D /* Build configuration list for PBXNativeTarget "ToDoey" */ = {
+		1DF3BC712D8C89DD00FE4E7B /* Build configuration list for PBXNativeTarget "Todoey" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1DFA32622D89F2450039667D /* Debug */,
-				1DFA32632D89F2450039667D /* Release */,
+				1DF3BC722D8C89DD00FE4E7B /* Debug */,
+				1DF3BC732D8C89DD00FE4E7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1DFA32642D89F2450039667D /* Build configuration list for PBXNativeTarget "ToDoeyTests" */ = {
+		1DF3BC742D8C89DD00FE4E7B /* Build configuration list for PBXNativeTarget "TodoeyTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1DFA32652D89F2450039667D /* Debug */,
-				1DFA32662D89F2450039667D /* Release */,
+				1DF3BC752D8C89DD00FE4E7B /* Debug */,
+				1DF3BC762D8C89DD00FE4E7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1DFA32672D89F2450039667D /* Build configuration list for PBXNativeTarget "ToDoeyUITests" */ = {
+		1DF3BC772D8C89DD00FE4E7B /* Build configuration list for PBXNativeTarget "TodoeyUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1DFA32682D89F2450039667D /* Debug */,
-				1DFA32692D89F2450039667D /* Release */,
+				1DF3BC782D8C89DD00FE4E7B /* Debug */,
+				1DF3BC792D8C89DD00FE4E7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1DFA32352D89F2410039667D /* Project object */;
+	rootObject = 1DF3BC452D8C89DA00FE4E7B /* Project object */;
 }
